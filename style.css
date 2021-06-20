@@ -1,0 +1,38 @@
+table.optional {
+    width: 100%;
+    background-color: #C7DEB3;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-color: #EEF5E7;
+    border-style: solid;
+    color: #000000;
+}
+
+table.optional td,
+table.optional th {
+    border-width: 2px;
+    border-color: #EEF5E7;
+    border-style: solid;
+    padding: 3px;
+}
+
+table.optional thead {
+    background-color: #72A942;
+    color: whitesmoke;
+    text-align: left;
+    font-style: normal;
+}
+
+.color1 {
+    background-color: rgb(199, 222, 179);
+    text-align: right;
+}
+
+.color2 {
+    background-color: rgb(226, 238, 217);
+    text-align: right;
+}
+
+.content {
+    text-align: left;
+}
